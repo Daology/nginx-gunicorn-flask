@@ -1,6 +1,6 @@
 # nginx-gunicorn-flask
 
-FROM ubuntu:12.04
+FROM ubuntu:14.04
 MAINTAINER Daniel Riti <dmriti@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
